@@ -1,0 +1,9 @@
+D:\Proiect\LibrarieClase\bin\Debug\netcoreapp3.1\LibrarieClase.deps.json
+D:\Proiect\LibrarieClase\bin\Debug\netcoreapp3.1\LibrarieClase.dll
+D:\Proiect\LibrarieClase\bin\Debug\netcoreapp3.1\LibrarieClase.pdb
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.AssemblyInfoInputs.cache
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.AssemblyInfo.cs
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.csproj.CoreCompileInputs.cache
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.dll
+D:\Proiect\LibrarieClase\obj\Debug\netcoreapp3.1\LibrarieClase.pdb
