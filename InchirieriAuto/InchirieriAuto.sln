@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchirieriAuto", "InchirieriAuto.csproj", "{15E9CE9E-3B55-470F-A649-8D497914C2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieClase", "..\LibrarieClase\LibrarieClase.csproj", "{7586A583-84E8-4809-B6DE-18AA54A8DF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E9CE9E-3B55-470F-A649-8D497914C2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E9CE9E-3B55-470F-A649-8D497914C2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E9CE9E-3B55-470F-A649-8D497914C2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E9CE9E-3B55-470F-A649-8D497914C2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7586A583-84E8-4809-B6DE-18AA54A8DF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7586A583-84E8-4809-B6DE-18AA54A8DF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7586A583-84E8-4809-B6DE-18AA54A8DF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7586A583-84E8-4809-B6DE-18AA54A8DF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF352B89-C3C0-4149-BDF2-C0BDF07D7CE9}
+	EndGlobalSection
+EndGlobal

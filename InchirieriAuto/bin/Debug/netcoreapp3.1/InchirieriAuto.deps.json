@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InchirieriAuto/1.0.0": {
+        "dependencies": {
+          "LibrarieClase": "1.0.0"
+        },
+        "runtime": {
+          "InchirieriAuto.dll": {}
+        }
+      },
+      "LibrarieClase/1.0.0": {
+        "runtime": {
+          "LibrarieClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InchirieriAuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrarieClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
